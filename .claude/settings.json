@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\allco\\\\Desktop\\\\Helpqr\")",
+      "Bash(dir \"c:\\\\Users\\\\allco\\\\Desktop\\\\Helpqr\\\\blog\")",
+      "Bash(dir \"c:\\\\Users\\\\allco\\\\Desktop\\\\Helpqr\\\\blogday3\")",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\allco\\\\Desktop\\\\Helpqr\\\\blog\\\\\" -Filter \"*.html\" | Measure-Object | Select-Object -ExpandProperty Count)"
+    ]
+  }
+}

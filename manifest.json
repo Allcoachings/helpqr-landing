@@ -1,0 +1,49 @@
+{
+  "name": "Help QR – Emergency Safety App",
+  "short_name": "Help QR",
+  "description": "Emergency QR code on your lock screen. Family called instantly when you can't speak.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0C0404",
+  "theme_color": "#8C0508",
+  "lang": "en-IN",
+  "categories": ["lifestyle", "medical", "safety"],
+  "icons": [
+    {
+      "src": "/assets/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.qr.help.android",
+      "id": "com.qr.help.android"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/in/iphone/apps"
+    }
+  ],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- HOME & BLOG INDEX -->
+
+  <url>
+    <loc>https://helpqr.org/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PILLAR PAGES (Priority 0.95) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/lock-screen-emergency-qr-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/lock-screen-emergency-qr-india.webp</image:loc>
+      <image:title>Lock Screen Emergency QR India — No-Unlock Medical ID &amp; Emergency Access | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/women-safety-app-2026</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/women-safety-app-india.webp</image:loc>
+      <image:title>Women Safety App India 2026 | HelpQR — Privacy-First Protection That Works Without a Panic Button</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/sos-app-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/sos-app-india.webp</image:loc>
+      <image:title>SOS App India 2026 | HelpQR — The Only Free App That Works When You Cannot Press a Button</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- HIGH-VALUE ARTICLES (Priority 0.88-0.92) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/accident-alert-system</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.92</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/accident-alert-system-india.webp</image:loc>
+      <image:title>Accident Alert System India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/lock-screen-medical-id-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.92</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/medical-id-qr-code-india.webp</image:loc>
+      <image:title>Lock Screen Medical ID India 2026 | HelpQR — Blood Group Visible Without Unlocking</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/emergency-safety-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/emergency-safety-app.webp</image:loc>
+      <image:title>Emergency Safety App India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/no-unlock-emergency-call</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/no-unlock-emergency-call-india.webp</image:loc>
+      <image:title>No Unlock Emergency Call India 2026 | HelpQR — Bystander Calls Your Family Without Your PIN</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/no-unlock-emergency-access-android</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/no-unlock-emergency-call-india.webp</image:loc>
+      <image:title>No Unlock Emergency Access Android India 2026 | HelpQR — QR Wallpaper Beats Stock Android</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/medical-id-qr-code</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/medical-id-qr-code-india.webp</image:loc>
+      <image:title>Medical Emergency QR Code India 2026 | HelpQR — Scannable Health Card on Your Lock Screen</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- CORE SAFETY BLOGS (Priority 0.82-0.85) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/automatic-sos-alert</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/automatic-sos-alert-india.webp</image:loc>
+      <image:title>Automatic SOS Alert India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/child-safety-tracker-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/child-safety-tracker-india.webp</image:loc>
+      <image:title>Child Safety Tracker India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/family-safety-circle</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/senior-citizen-safety-app-india.webp</image:loc>
+      <image:title>Family Safety Circle App India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/inactivity-monitor-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/inactivity-monitor-app-india.webp</image:loc>
+      <image:title>Inactivity Monitor App India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/live-location-tracker</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/live-location-tracker-india.webp</image:loc>
+      <image:title>Live Location Tracker India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/lock-screen-emergency-contact-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/lock-screen-emergency-qr-india.webp</image:loc>
+      <image:title>Lock Screen Emergency Contact App India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/made-in-india-safety-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/made-in-india-safety-app.webp</image:loc>
+      <image:title>Made in India Safety App 2026 | HelpQR — Offline, 2G-Ready, Built for Bharat</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/emergency-contact-widget</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/emergency-contact-widget-india.webp</image:loc>
+      <image:title>Emergency Contact Widget Android India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/smart-sos-button</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/smart-sos-button-india.webp</image:loc>
+      <image:title>Smart SOS Button India 2026 | HelpQR — Automatic Emergency Alert Without Pressing Anything</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- SECONDARY BLOGS (Priority 0.70-0.78) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/emergency-info-without-unlocking</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/no-unlock-emergency-call-india.webp</image:loc>
+      <image:title>Emergency Info Without Unlocking Phone India 2026 | Help QR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/personal-bodyguard-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/personal-bodyguard-app-india.webp</image:loc>
+      <image:title>Personal Bodyguard App India 2026 | HelpQR — Free Passive Safety for Working Women</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/safety-app-for-night-shift</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/safety-app-night-shift-india.webp</image:loc>
+      <image:title>Safety App for Night Shift Workers India 2026 | HelpQR — Inactivity Alert for 8-Hour Shifts</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/scan-to-call-emergency</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/scan-to-call-emergency-india.webp</image:loc>
+      <image:title>Scan to Call Emergency India 2026 | HelpQR — QR on Lock Screen Calls Family in 15 Seconds</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/senior-citizen-safety-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/senior-citizen-safety-app-india.webp</image:loc>
+      <image:title>Senior Citizen Safety App India 2026 | HelpQR — Passive Protection for Elderly Parents at Home</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/solo-travel-safety-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/solo-travel-safety-app-india.webp</image:loc>
+      <image:title>Solo Travel Safety App India 2026 | HelpQR — Off-Grid Protection for Spiti, Ladakh and Beyond</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- DAY-1 NEW BLOGS (April 2026) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/sos-alert-app-android-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/sos-alert-app-android-india.webp</image:loc>
+      <image:title>Best SOS Alert App Android India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/best-safety-app-for-women</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/best-safety-app-for-women.webp</image:loc>
+      <image:title>Best Safety App for Women India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/qr-code-emergency-wallpaper</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/qr-code-emergency-wallpaper.webp</image:loc>
+      <image:title>QR Code Emergency Wallpaper Android India | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/blood-group-qr-code-lock-screen</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/blood-group-qr-code-lock-screen.webp</image:loc>
+      <image:title>Blood Group QR Code Lock Screen India | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/elderly-safety-app-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/elderly-safety-app-india.webp</image:loc>
+      <image:title>Best Elderly Safety App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/crash-detection-app-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/crash-detection-app-india.webp</image:loc>
+      <image:title>Best Crash Detection App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- STATIC / UTILITY PAGES -->
+
+  <url>
+    <loc>https://helpqr.org/contact</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/privacy</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/terms</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/refund</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/delete-account</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
+  <!-- DAY-2 BLOGS — Published 2026-04-26 (Days 7-12) -->
+
+  <url>
+    <loc>https://helpqr.org/blog/emergency-app-india-free</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/emergency-app-india-free.webp</image:loc>
+      <image:title>Best Free Emergency App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/women-safety-app-free-android</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/women-safety-app-free-android.webp</image:loc>
+      <image:title>Best Free Women Safety App Android India 2026</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/dead-man-switch-app-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/dead-man-switch-app-india.webp</image:loc>
+      <image:title>Dead Man Switch Safety App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/car-accident-alert-app-android</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/car-accident-alert-app-android.webp</image:loc>
+      <image:title>Best Car Accident Alert App Android India 2026</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/mahila-suraksha-app</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/mahila-suraksha-app.webp</image:loc>
+      <image:title>Mahila Suraksha App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/panic-button-app-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/panic-button-app-india.webp</image:loc>
+      <image:title>Best Panic Button App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- DAY-3 BLOGS — Published 2026-04-29 -->
+
+  <url>
+    <loc>https://helpqr.org/blog/automatic-accident-detection-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/automatic-accident-detection-india.webp</image:loc>
+      <image:title>Automatic Accident Detection App India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/mahila-suraksha-app-hindi</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/mahila-suraksha-app-hindi.webp</image:loc>
+      <image:title>Mahila Suraksha App Hindi 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/safety-app-for-girls-india</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/safety-app-for-girls-india.webp</image:loc>
+      <image:title>Best Safety App for Girls India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://helpqr.org/blog/safety-app-people-living-alone</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <image:image>
+      <image:loc>https://helpqr-static.b-cdn.net/blogs_webp/safety-app-people-living-alone.webp</image:loc>
+      <image:title>Best Safety App for People Living Alone India 2026 | HelpQR</image:title>
+      <image:caption>By Amit Ratan | HelpQR.org</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+  </url>
+
+</urlset>

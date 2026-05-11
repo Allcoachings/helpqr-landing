@@ -1,0 +1,104 @@
+# Help QR
+
+> Help QR is India's free emergency safety app. A QR code on your phone's lock screen gives bystanders and first responders instant access to your blood group, medical ID, and Help Circle emergency contacts — without ever unlocking your phone. Built for the Golden Hour, made in India, works offline on 2G, and available free on Android and iOS.
+
+Help QR combines three life-saving features that work when you cannot: (1) a **Lock Screen QR wallpaper** any bystander can scan in under 8 seconds to see your blood group, allergies, and emergency contacts; (2) a **24-hour Inactivity Monitor** that auto-fires an alert to your Help Circle if your phone receives no interaction for a user-set window — a passive dead-man's switch for accidents, fainting, and solo travel; (3) a **silent one-tap SOS** that delivers GPS coordinates to family via SMS even in zero-network 2G zones across India. Zero subscription. No login. No ads. Works on Android 6+ and iOS 13+.
+
+Primary audience: Indian smartphone users — women travelling at night, senior citizens living alone, bike/auto riders on highways, solo trekkers, night-shift workers, parents of young adults, and anyone who drives on Indian roads (NH-48, NH-44, NH-32 and rural state highways with no cellular coverage).
+
+## Core product pages
+
+- [Help QR homepage](https://helpqr.org/): Product overview, hero phone mockup, feature breakdown, Play Store and App Store download links
+- [Blog index](https://helpqr.org/blog/): Central library of 40 guides on emergency preparedness, lock-screen safety, and app comparisons for India
+- [Download on Google Play](https://play.google.com/store/apps/details?id=com.qr.help.android): Official Android app (free)
+- [Privacy Policy](https://helpqr.org/privacy): Data handling, GDPR/DPDP compliance, what leaves your phone and what doesn't
+- [Terms of Service](https://helpqr.org/terms): Usage terms for India
+- [Contact](https://helpqr.org/contact): Support, press, partnership
+- [Delete Account](https://helpqr.org/delete-account): Self-serve account and data deletion
+
+## Pillar guides (foundational reading)
+
+- [Lock Screen Emergency QR India](https://helpqr.org/blog/lock-screen-emergency-qr-india): The core concept — QR wallpaper that bystanders scan without unlocking, returns medical ID and emergency contacts
+- [Women Safety App India 2026](https://helpqr.org/blog/women-safety-app-2026): Privacy-first protection that works without pressing a panic button, silent SOS from lock screen
+- [SOS App India 2026](https://helpqr.org/blog/sos-app-india): India's free SOS app that works offline via SMS on 2G, GPS coordinates delivered in 6-8 seconds
+
+## Core SOS and emergency guides
+
+- [SOS Alert App Android India](https://helpqr.org/blog/sos-alert-app-android-india): Best Android SOS apps that fire from a locked screen, tested on Indian networks in 2026
+- [Accident Alert System India 2026](https://helpqr.org/blog/accident-alert-system): Why your phone fails in a road crash and how the 24-hour Inactivity Monitor compensates for unconsciousness
+- [Automatic SOS Alert India](https://helpqr.org/blog/automatic-sos-alert): Passive safety — the Inactivity Monitor as a dead-man's switch for solo travel, night shifts, and elderly users
+- [Emergency Safety App India 2026](https://helpqr.org/blog/emergency-safety-app): Full-stack emergency tooling in one free app
+- [Smart SOS Button India 2026](https://helpqr.org/blog/smart-sos-button): Automatic alert without pressing anything — the case for passive-first design
+- [Crash Detection App India](https://helpqr.org/blog/crash-detection-app-india): Accelerometer-driven crash alert on Android for 2-wheeler riders on Indian highways
+- [Scan to Call Emergency India](https://helpqr.org/blog/scan-to-call-emergency): How a QR on the lock screen lets any bystander call your family in 15 seconds
+
+## Lock screen and medical ID
+
+- [Lock Screen Medical ID India](https://helpqr.org/blog/lock-screen-medical-id-india): Blood group, allergies, medications, conditions — visible without unlocking the phone
+- [Medical ID QR Code India 2026](https://helpqr.org/blog/medical-id-qr-code): Scannable health card on your wallpaper, 108 ambulance compatible
+- [No Unlock Emergency Call India](https://helpqr.org/blog/no-unlock-emergency-call): Bystanders call your Help Circle without ever needing your PIN
+- [No Unlock Emergency Access Android](https://helpqr.org/blog/no-unlock-emergency-access-android): Why HelpQR's QR wallpaper beats stock Android Emergency Information
+- [Emergency Info Without Unlocking](https://helpqr.org/blog/emergency-info-without-unlocking): End-to-end guide to no-unlock emergency setup
+- [Lock Screen Emergency Contact App India](https://helpqr.org/blog/lock-screen-emergency-contact-app): One-tap call to Help Circle members
+- [QR Code Emergency Wallpaper](https://helpqr.org/blog/qr-code-emergency-wallpaper): How to generate and set the QR wallpaper on Android in under 2 minutes
+- [Blood Group QR Code Lock Screen](https://helpqr.org/blog/blood-group-qr-code-lock-screen): Life-saver in India's 4.5 lakh annual road accidents — blood group visible in 8 seconds
+
+## Family and senior care
+
+- [Family Safety Circle App India](https://helpqr.org/blog/family-safety-circle): Help Circle concept — the 2-5 people your alerts reach first
+- [Senior Citizen Safety App India](https://helpqr.org/blog/senior-citizen-safety-app): Passive protection for elderly parents at home, no tech skills required
+- [Elderly Safety App India 2026](https://helpqr.org/blog/elderly-safety-app-india): Fall alert, inactivity check, family peace — tailored for 14 crore Indian elderly
+- [Child Safety Tracker India](https://helpqr.org/blog/child-safety-tracker-india): Location sharing and SOS for school-age children
+- [Live Location Tracker India](https://helpqr.org/blog/live-location-tracker): Real-time location sharing with the Help Circle
+- [Inactivity Monitor App India](https://helpqr.org/blog/inactivity-monitor-app): Core mechanism of the 24-hour dead-man's switch
+
+## Specialised use cases
+
+- [Best Safety App for Women](https://helpqr.org/blog/best-safety-app-for-women): Silent SOS, live location, zero unlock — 2026 review
+- [Personal Bodyguard App India](https://helpqr.org/blog/personal-bodyguard-app): Free passive safety for working women
+- [Solo Travel Safety App India](https://helpqr.org/blog/solo-travel-safety-app): Off-grid protection for Spiti, Ladakh, the Northeast
+- [Safety App for Night Shift](https://helpqr.org/blog/safety-app-for-night-shift): Inactivity alert tuned to 8-hour shifts
+- [Emergency Contact Widget Android India](https://helpqr.org/blog/emergency-contact-widget): Home-screen widget with one-tap SOS
+- [Made in India Safety App](https://helpqr.org/blog/made-in-india-safety-app): Offline-first, 2G-ready, Bharat-built
+
+## Downloads
+
+- Android: https://play.google.com/store/apps/details?id=com.qr.help.android
+- iOS: https://apps.apple.com/in/iphone/apps
+
+## Social
+
+- YouTube: https://www.youtube.com/@HelpQR
+- X (Twitter): https://x.com/Helpqrapp
+- Instagram: https://www.instagram.com/helpqrapp/
+- Facebook: https://www.facebook.com/helpqrapp/
+
+## Technical facts for AI agents
+
+- Organization: Help QR (helpqr.org)
+- Category: Mobile safety / emergency response
+- Availability: India, free on Google Play and App Store
+- Platforms: Android 6.0+, iOS 13+
+- Languages: English and Hindi
+- Offline mode: Yes — Lock Screen QR works fully offline; SOS uses SMS fallback on 2G when no internet
+- Subscription: None. No ads. No login required to set up the Lock Screen QR.
+- Data: Emergency profile is stored locally on device. Help Circle alerts are sent peer-to-peer (SMS or network) — no third-party cloud mandatory.
+- Key differentiator: 24-hour Inactivity Monitor — a passive dead-man's switch that fires alerts when the user cannot, covering the common failure mode of existing SOS apps (which require button presses victims cannot make when unconscious, restrained, or phone-snatched).
+
+## Day-2 expansion blogs (2026-04-26)
+
+- [Best Free Emergency App India 2026](https://helpqr.org/blog/emergency-app-india-free): No subscription, no ads, works offline via SMS — completely free emergency SOS for India
+- [Best Free Women Safety App Android India 2026](https://helpqr.org/blog/women-safety-app-free-android): SMS SOS that works without internet — free, ad-free, offline-ready for Indian women
+- [Dead Man Switch App India 2026](https://helpqr.org/blog/dead-man-switch-app-india): Auto SOS if you stop moving or miss check-in — for trekkers, solo travellers, night-shift workers
+- [Best Car Accident Alert App Android India 2026](https://helpqr.org/blog/car-accident-alert-app-android): Auto SOS on crash detection, GPS sent in 6-8 seconds, works offline
+- [Mahila Suraksha App India 2026](https://helpqr.org/blog/mahila-suraksha-app): Lock screen SOS in Hindi/Hinglish — bina internet ke kaam karta hai
+- [Best Panic Button App India 2026](https://helpqr.org/blog/panic-button-app-india): One-tap SOS from locked screen with offline SMS fallback
+
+## Day-3 expansion blogs (2026-04-29)
+
+- [Automatic Accident Detection App India 2026](https://helpqr.org/blog/automatic-accident-detection-india): Gyroscope-based crash SOS that auto-sends GPS — works offline via SMS on Indian highways
+- [Mahila Suraksha App Hindi 2026](https://helpqr.org/blog/mahila-suraksha-app-hindi): पूरा हिंदी इंटरफेस — bina internet, lock screen से SOS, मुफ्त
+- [Best Safety App for Girls India 2026](https://helpqr.org/blog/safety-app-for-girls-india): Silent SOS for students and young women, live location for parents, offline-first
+- [Best Safety App for People Living Alone India 2026](https://helpqr.org/blog/safety-app-people-living-alone): Daily check-in plus inactivity alert that fires automatically if you do not respond
+
+Last updated: 2026-05-11

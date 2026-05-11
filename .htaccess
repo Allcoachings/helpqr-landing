@@ -1,0 +1,67 @@
+# ============================================================
+# Help QR – Updated Apache Configuration (2026 SEO Standard)
+# ============================================================
+
+Options -Indexes
+ServerSignature Off
+
+# ── Custom Error Pages ──────────────────────────────────────
+ErrorDocument 404 /404.html
+ErrorDocument 403 /404.html
+
+# ── URL Rewriting ───────────────────────────────────────────
+RewriteEngine On
+RewriteBase /
+
+# 1. Remove trailing slash (except root)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# 2. Redirect .html to non-html (SEO Friendly - Professional Look)
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R=301]
+
+# 3. Utility / legal pages — clean URLs
+RewriteRule ^privacy$           /privacy.html           [L]
+RewriteRule ^terms$             /terms.html             [L]
+RewriteRule ^refund$            /refund.html            [L]
+RewriteRule ^contact$           /contact.html           [L]
+RewriteRule ^delete-account$    /delete-account.html    [L]
+
+# 4. SEO Consolidation 301s — duplicate / cannibalising URLs
+# Pillar article is /blog/lock-screen-emergency-qr-india (priority 0.95)
+# The thinner /blog/lock-screen-emergency-qr permanently redirects to it.
+RewriteRule ^blog/lock-screen-emergency-qr$ /blog/lock-screen-emergency-qr-india [R=301,L]
+
+# 5. Blog Posts Strategy — /blog/slug → looks inside /blog/ folder
+# Isse helpqr.org/blog/inactivity-monitor-app kaam karne lagega
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
+RewriteRule ^blog/([a-z0-9\-]+)$ /blog/$1.html [L]
+
+# 6. Handle blog index — serve the blog listing page
+RewriteRule ^blog/?$            /blog/index.html        [L]
+
+# ── Security Headers ────────────────────────────────────────
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# ── GZIP Compression ────────────────────────────────────────
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript
+  AddOutputFilterByType DEFLATE image/svg+xml application/xml text/xml
+</IfModule>
+
+# ── Browser Caching (Performance Booster) ───────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault                          "access plus 1 month"
+  ExpiresByType text/html                 "access plus 1 hour"
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/x-icon               "access plus 1 year"
+</IfModule>
